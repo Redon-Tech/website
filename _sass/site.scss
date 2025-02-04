@@ -103,9 +103,11 @@ article {
 }
 
 .project-image {
-    background-position: center;
-    background-size: auto 115%;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
 }
 
 .card-hover {

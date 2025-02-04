@@ -1,11 +1,11 @@
 - name: Emergency Vehicle Creator
-  image: EVC-Dropshadow.png
+  image: EVC.png
   version: 3.0.0
   type: Plugin
   link: https://evc.redon.tech
 
 - name: Weather Systems
-  image: EVC-Dropshadow.png
+  image: WS.png
   version: 2.0.0
   type: Plugin
   link: https://create.roblox.com/store/asset/4702214872/
@@ -23,13 +23,13 @@
   link: https://hub.redon.tech
 
 - name: Fire System
-  image: EVC-Dropshadow.png
+  image: FS.png
   version: 2.0.1
   type: Script
   link: https://firesys.redon.tech
 
 - name: Soundpad Downloader
-  image: EVC-Dropshadow.png
+  image: SP-D.png
   version: 1.0.0
   type: Other
   link: https://github.com/Redon-Tech/Soundpad-Downloader

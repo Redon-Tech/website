@@ -3,3 +3,7 @@ knowledgebase:
     links:
       - title: Opening The Developer Console
         link: /knowledgebase/developer-console
+  - title: Plugins
+    links:
+      - title: Enabling Plugin Permissions
+        link: /knowledgebase/plugin-permissions

@@ -27,3 +27,5 @@ Please ensure you enable both HTTP requests and Script Injection.
 <video autoplay loop muted>
 <source src="/assets/images/GrantPermissions.mp4" type="video/mp4">
 </video>
+
+**Please restart studio to ensure the changes apply!!**
